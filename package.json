@@ -1,17 +1,17 @@
 {
-  "name": "react-color",
+  "name": "react-color-customized",
   "version": "2.19.3",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/casesandberg/react-color.git"
+    "url": "git+https://github.com/Farzad-rh/react-color-customized.git"
   },
-  "author": "case <case@casesandberg.com>",
+  "author": "farzad@elay.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/casesandberg/react-color/issues"
+    "url": "https://github.com/Farzad-rh/react-color-customized/issues"
   },
   "scripts": {
     "test": "npm run jest && npm run eslint",
